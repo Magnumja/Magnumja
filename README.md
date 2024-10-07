@@ -2,12 +2,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&theme=highcontrast"
+    srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true"
-    media="(prefers-color-scheme: white), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true" />
 </picture>
@@ -16,19 +16,21 @@
 
 ## About Me
 
-- **Age**: 21
-- 💻 Currently seeking internships.
-- 🧑‍🎓 Studying Computer Science at Dom Bosco Catholic University.
-- 🌎 Based in Campo Grande, MS, Brazil.
+🌟 **Age**: 21  
+💻 Currently seeking internships.  
+🎓 Studying Computer Science at Dom Bosco Catholic University.  
+🌍 Based in Campo Grande, MS, Brazil.
 
 ### Languages
-- 🐍 Python
-- 🖥️ C
+
+- 🐍 **Python**
+- 💻 **C**
 
 ### Learning
-- HTML, JavaScript, MySQL, Figma, SQL, Python, C/C++.
 
-<div style="display: inline_block"><br>
+✨ HTML, JavaScript, MySQL, Figma, SQL, Python, C/C++.
+
+<div style="display: inline_block; border: 2px solid #3498db; border-radius: 15px; padding: 10px; background-color: #ecf0f1;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
