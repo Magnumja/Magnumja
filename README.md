@@ -1,4 +1,4 @@
-# Hello, my name is Magnum Johanson de Abreu!
+# 👋 Hello, I'm Magnum Johanson de Abreu!
 
 <picture>
   <source
@@ -12,25 +12,29 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true" />
 </picture>
 
-***
+---
 
-### About Me:
+## About Me
 
-- 21 yo.
-- 💻 I am not currently working, but I'm looking for internships.
-- 🧑‍🎓 Computer science student at the Dom Bosco Catholic University.
-- 🌎 Campo Grande, MS, Brazil
-- 👅 Languages:
-  - 🐍 Python
-  - 🖥️ C
-- 🧑‍🎓 Learning:
-  - HTML, JavaScript, MySQL, Figma, SQL, Python, C/C++.
- 
+- **Age**: 21
+- 💻 Currently seeking internships.
+- 🧑‍🎓 Studying Computer Science at Dom Bosco Catholic University.
+- 🌎 Based in Campo Grande, MS, Brazil.
+
+### Languages
+- 🐍 Python
+- 🖥️ C
+
+### Learning
+- HTML, JavaScript, MySQL, Figma, SQL, Python, C/C++.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-***
+
+---
+
+## Connect with Me
 
 <div> 
   <a href="https://www.instagram.com/magnum.abreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
