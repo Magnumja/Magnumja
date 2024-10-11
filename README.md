@@ -16,10 +16,49 @@
 
 ## About Me
 
-- **Age**: 21  
-- Studying Computer Science at Dom Bosco Catholic University.
-- Currently seeking internships.
-- Based in Campo Grande, MS, Brazil.
+<h3 align="center">
+  <span id="typed"></span>
+</h3>
+
+<script>
+  const textArray = [
+    "Age: 21", 
+    "Studying Computer Science at Dom Bosco Catholic University.", 
+    "Currently seeking internships.", 
+    "Based in Campo Grande, MS, Brazil."
+  ];
+  let currentIndex = 0;
+  let currentText = "";
+  let charIndex = 0;
+
+  function type() {
+    if (charIndex < textArray[currentIndex].length) {
+      currentText += textArray[currentIndex].charAt(charIndex);
+      document.getElementById("typed").innerHTML = currentText;
+      charIndex++;
+      setTimeout(type, 50);  // Velocidade de digitação mais rápida (50ms por caractere)
+    } else {
+      setTimeout(erase, 2000);  // Pausa de 2 segundos antes de apagar o texto
+    }
+  }
+
+  function erase() {
+    if (charIndex > 0) {
+      currentText = textArray[currentIndex].substring(0, charIndex - 1);
+      document.getElementById("typed").innerHTML = currentText;
+      charIndex--;
+      setTimeout(erase, 30);  // Velocidade de apagar (mais rápida, 30ms)
+    } else {
+      currentIndex = (currentIndex + 1) % textArray.length;  // Passa para o próximo texto
+      setTimeout(type, 500);  // Pausa de 0,5 segundos antes de começar a digitar o próximo
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(type, 500);  // Começa a digitar após 0,5 segundos
+  });
+</script>
+
 
 ### Languages
 
