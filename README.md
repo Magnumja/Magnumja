@@ -17,8 +17,8 @@
 ## About Me
 
 - **Age**: 21  
-- Currently seeking internships.  
-- Studying Computer Science at Dom Bosco Catholic University.  
+- Studying Computer Science at Dom Bosco Catholic University.
+- Currently seeking internships.
 - Based in Campo Grande, MS, Brazil.
 
 ### Languages
