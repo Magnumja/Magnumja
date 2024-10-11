@@ -25,8 +25,8 @@
 ### Languages
 
 <div style="display: flex; align-items: center; border: 2px solid #3498db; border-radius: 15px; padding: 10px; background-color: #000000; color: #3498db;">
-  <img align="center" alt="Python" src="https://github.com/Magnumja/my-icons/blob/main/python%20(3).png" height="40" style="margin-right: 15px;">
-  <img align="center" alt="C" src="https://github.com/Magnumja/my-icons/blob/main/letter-c.png" height="40">
+  <img align="center" alt="Python" src="https://github.com/Magnumja/Magnumja/blob/main/python%20(3).png" height="40" style="margin-right: 15px;">
+  <img align="center" alt="C" src="https://github.com/Magnumja/Magnumja/blob/main/letter-c.png" height="40">
 </div>
 
 
