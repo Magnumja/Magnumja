@@ -13,9 +13,6 @@
 </picture>
 
 ---
-git clone https://github.com/magnum/projeto-incrivel
-cd projeto-incrivel
-npm start
 
 ## About Me
 
