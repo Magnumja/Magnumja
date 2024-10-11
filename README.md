@@ -1,4 +1,4 @@
-###👋 Hello, I'm Magnum Johanson de Abreu!
+👋 Hello, I'm Magnum Johanson de Abreu!
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&theme=radical&bg_color=000000&title_color=3498db&text_color=3498db&icon_color=3498db"
