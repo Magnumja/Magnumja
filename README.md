@@ -25,7 +25,7 @@
 - Python
 - C
 
-<div style="display: inline_block; border: 2px solid #3498db; border-radius: 15px; padding: 10px; background-color: #ecf0f1;">
+<div style="display: inline_block; border: 2px solid #3498db; border-radius: 15px; padding: 10px; background-color: #ecf0f1; color: black;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
