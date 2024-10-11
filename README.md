@@ -13,17 +13,17 @@
 
 ---
 
-About Me
-Age: 21
-Studying Computer Science at Dom Bosco Catholic University.
-Currently seeking internships.
-Based in Campo Grande, MS, Brazil.
+### About Me
 
-Languages
-Python
-C
+- Age: 21
+- Studying Computer Science at Dom Bosco Catholic University.
+- Currently seeking internships.
+- Based in Campo Grande, MS, Brazil.
 
+### Languages
 
+- Python
+- C
 
 <div style="display: inline_block; border: 2px solid #3498db; border-radius: 15px; padding: 10px; background-color: #ecf0f1;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,7 +31,7 @@ C
 
 ---
 
-Connect with Me
+### Connect with Me
 <div> 
   <a href="https://www.instagram.com/magnum.abreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magnumdeabreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
