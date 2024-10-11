@@ -1,14 +1,14 @@
 👋 Hello, I'm Magnum Johanson de Abreu!
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&theme=radical&bg_color=000000&title_color=3498db&text_color=3498db&icon_color=3498db"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&bg_color=000000&title_color=3498db&text_color=3498db&icon_color=3498db"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&bg_color=000000&title_color=3498db&text_color=3498db&icon_color=3498db" />
 </picture>
 
 ---
@@ -25,7 +25,7 @@
 - Python
 - C
 
-<div style="display: inline_block; border: 2px solid #3498db; border-radius: 15px; padding: 10px; background-color: #ecf0f1; color: black;">
+<div style="display: inline_block; border: 2px solid #3498db; border-radius: 15px; padding: 10px; background-color: #000000; color: #3498db;">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
