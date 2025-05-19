@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student @ UCDB  
-- 📍 Campo Grande, MS – Brazil  
-- 🚀 Looking for internship opportunities
+-  Computer Science student @ UCDB  
+-  Campo Grande, MS – Brazil  
+-  Looking for internship opportunities
 
 ---
 
