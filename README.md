@@ -5,7 +5,7 @@
 
 ---
 
-#  Hello! I'm Magnum Abreu  
+#  Hello! 
 
 -  Computer Science student @ UCDB  
 -  Campo Grande, MS – Brazil  
