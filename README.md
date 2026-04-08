@@ -1,9 +1,7 @@
 <!-- Banner preto sólido com fonte cursiva -->
-<!-- Banner cinza escuro elegante com fonte cursiva -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Magnum%20Abreu&fontAlign=50&fontAlignY=40&color=2F2F2F&fontColor=ffffff&fontFamily=Pacifico&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20UCDB&descAlign=50&descAlignY=70&descSize=12&animation=fadeIn" alt="Banner Magnum"/>
 </p>
-
 
 ---
 
@@ -12,6 +10,7 @@
 - 🖥️ Computer Science student @ UCDB  
 - 📍 Campo Grande, MS – Brazil  
 - 💼 Currently interning in:  
+  - **Back-End / Front-End Developer Intern & Prompt Engineer** at **Lumma AI**  
   - **Analysis and Development of Databases** at Prefeitura Municipal de Campo Grande/MS  
   - **PET-Saúde Digital Program**  
   - **Mathematics Tutor** at *Escola Estadual Maestro Frederico Liebermann*  
@@ -48,4 +47,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
