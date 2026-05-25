@@ -4,13 +4,6 @@
   />
 </p>
 
-<h1 align="center">Magnum Abreu</h1>
-
-<p align="center">
-  <strong>Computer Science Student @ UCDB</strong><br/>
-  Campo Grande, Brazil 🇧🇷
-</p>
-
 <p align="center">
   <a href="mailto:magnumjabreuu@gmail.com"><img src="https://img.shields.io/badge/Email-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/magnumdeabreu"><img src="https://img.shields.io/badge/LinkedIn-3A3A3A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -32,18 +25,3 @@
 
 **Data Science Intern** — Prefeitura de Campo Grande/MS
 - Análise de dados e dashboards
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,cpp,postgres,git,github,vscode" />
-</p>
-
-**Front-End:** HTML | CSS | JavaScript | TypeScript | React  
-**Back-End:** Node.js | APIs  
-**Database:** PostgreSQL  
-**Languages:** Python | C | C++  
-**AI:** Prompt Engineering | Computer Vision  
-**Tools:** Git | GitHub | VS Code
