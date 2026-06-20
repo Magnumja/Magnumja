@@ -1,70 +1,36 @@
 <h1 align="center">Magnum Abreu</h1>
 
 <p align="center">
-  Computer Science · Artificial Intelligence · Computer Vision · Full Stack
+  <code>Computer Science</code> &nbsp;·&nbsp; <code>AI</code> &nbsp;·&nbsp; <code>Computer Vision</code> &nbsp;·&nbsp; <code>Full Stack</code>
 </p>
 
 <p align="center">
-  <a href="mailto:magnumjabreuu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/magnumdeabreu">
-    <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Magnumja">
-    <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:magnumjabreuu@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/magnumdeabreu">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Magnumja">GitHub</a>
 </p>
 
----
+<br>
 
-## Sobre
+Estudante de Ciência da Computação com foco em Inteligência Artificial, Visão Computacional e desenvolvimento Full Stack.
 
-Estudante de Ciência da Computação com foco em Inteligência Artificial, Visão Computacional e desenvolvimento Full Stack. Atuo na construção de sistemas inteligentes e pesquisa aplicada em aprendizado de máquina.
+### Stack
 
----
+`Python` `TypeScript` `JavaScript` &nbsp;|&nbsp; `NestJS` `Node.js` `React` `PostgreSQL` &nbsp;|&nbsp; `PyTorch` `OpenCV` `YOLO` `scikit-learn` &nbsp;|&nbsp; `Docker` `Git`
 
-## Stack
+### Experiência
 
-**Linguagens**
+**Lumma IA** — Back-End/Front-End Developer & Prompt Engineer
+Sistemas inteligentes e soluções AI-driven. Desenvolvimento full stack e engenharia de prompts.
 
-![Python](https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white)
+**Inovisão** — Pesquisador de Iniciação Científica
+Visão computacional e ML. Object detection, segmentation, classification e avaliação de modelos.
 
-**Back-end & Front-end**
+**Prefeitura de Campo Grande/MS** — Data Science Intern
+Análise de dados e construção de dashboards.
 
-![NestJS](https://img.shields.io/badge/NestJS-181818?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=white)
+<br>
 
-**IA & Visão Computacional**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-181818?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-181818?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-181818?style=flat-square&logo=yolo&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-181818?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Ferramentas**
-
-![Docker](https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Experiência
-
-**Back-End/Front-End Developer & Prompt Engineer** — Lumma IA
-Desenvolvimento de sistemas inteligentes e soluções AI-driven.
-- Arquitetura e implementação full stack de aplicações end-to-end
-- Engenharia e otimização de prompts para assistentes virtuais
-
-**Pesquisador de Iniciação Científica** — Inovisão (IA & Computer Vision)
-Pesquisa aplicada em visão computacional e aprendizado de máquina.
-- Object Detection, Segmentation e Classification
-- Treinamento e avaliação de modelos de Machine Learning
-
-**Data Science Intern** — Prefeitura de Campo Grande/MS
-Análise de dados e suporte à tomada de decisão.
-- Análise exploratória de dados e construção de dashboards
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&hide_border=true&title_color=888888&icon_color=888888&text_color=666666&bg_color=00000000" height="150"/>
+</p>
