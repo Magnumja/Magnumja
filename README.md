@@ -30,7 +30,3 @@ Visão computacional e ML. Object detection, segmentation, classification e aval
 Análise de dados e construção de dashboards.
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&hide_border=true&title_color=888888&icon_color=888888&text_color=666666&bg_color=00000000" height="150"/>
-</p>
