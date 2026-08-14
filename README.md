@@ -1,32 +1,85 @@
 <h1 align="center">Magnum Abreu</h1>
 
 <p align="center">
-  <code>Computer Science</code> &nbsp;·&nbsp; <code>AI</code> &nbsp;·&nbsp; <code>Computer Vision</code> &nbsp;·&nbsp; <code>Full Stack</code>
+  <b>Computer Science · Artificial Intelligence · Computer Vision · Full Stack Development</b>
 </p>
 
 <p align="center">
-  <a href="mailto:magnumjabreuu@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/magnumdeabreu">LinkedIn</a> &nbsp;·&nbsp;
+  Building intelligent systems, computer vision solutions and modern web applications.
+</p>
+
+<p align="center">
+  <a href="mailto:magnumjabreuu@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/magnumdeabreu">LinkedIn</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/Magnumja">GitHub</a>
 </p>
 
-<br>
+---
 
-Estudante de Ciência da Computação com foco em Inteligência Artificial, Visão Computacional e desenvolvimento Full Stack.
+### Sobre mim
 
-### Stack
+Estudante de **Ciência da Computação** com foco em **Inteligência Artificial, Visão Computacional e Engenharia de Software**.
 
-`Python` `TypeScript` `JavaScript` &nbsp;|&nbsp; `NestJS` `Node.js` `React` `PostgreSQL` &nbsp;|&nbsp; `PyTorch` `OpenCV` `YOLO` `scikit-learn` &nbsp;|&nbsp; `Docker` `Git`
+Atuo no desenvolvimento de aplicações full stack e sistemas baseados em IA, trabalhando desde a construção de APIs e interfaces até treinamento, avaliação e integração de modelos de Machine Learning.
+
+Tenho interesse especial em transformar pesquisa e modelos de IA em **soluções reais, escaláveis e utilizáveis**.
+
+### Tech Stack
+
+**Languages**
+
+`Python` `TypeScript` `JavaScript` `SQL`
+
+**Back-end & Front-end**
+
+`NestJS` `Node.js` `React` `PostgreSQL`
+
+**AI & Computer Vision**
+
+`PyTorch` `OpenCV` `YOLO` `scikit-learn`
+
+**Tools**
+
+`Docker` `Git` `REST APIs`
+
+---
 
 ### Experiência
 
-**Lumma IA** — Back-End/Front-End Developer & Prompt Engineer
-Sistemas inteligentes e soluções AI-driven. Desenvolvimento full stack e engenharia de prompts.
+**Lumma IA**
+`Back-End / Front-End Developer · Prompt Engineer`
 
-**Inovisão** — Pesquisador de Iniciação Científica
-Visão computacional e ML. Object detection, segmentation, classification e avaliação de modelos.
+Desenvolvimento de sistemas inteligentes e aplicações AI-driven, atuando em arquitetura de APIs, interfaces, integrações e engenharia de prompts.
 
-**Prefeitura de Campo Grande/MS** — Data Science Intern
-Análise de dados e construção de dashboards.
+**Inovisão**
+`Pesquisador de Iniciação Científica`
 
-<br>
+Pesquisa aplicada em **Visão Computacional e Machine Learning**, envolvendo object detection, segmentation, classification, processamento de imagens e avaliação experimental de modelos.
+
+**Prefeitura de Campo Grande/MS**
+`Data Science Intern`
+
+Análise e tratamento de dados, desenvolvimento de indicadores e construção de dashboards para apoio à tomada de decisão.
+
+---
+
+### Áreas de interesse
+
+`Artificial Intelligence` · `Computer Vision` · `Machine Learning` · `Deep Learning` · `Full Stack Development` · `Software Engineering`
+
+---
+
+<p align="center">
+  <i>From research to production.</i>
+</p>
+
+
+
+### GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Magnumja&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magnumja&layout=compact&hide_border=true" />
+</p>
