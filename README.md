@@ -16,6 +16,8 @@
   <a href="https://github.com/Magnumja">GitHub</a>
 </p>
 
+![Visitors](https://komarev.com/ghpvc/?username=Magnumja&label=VISITORS&style=for-the-badge&color=434343)
+
 ---
 
 ### Sobre mim
