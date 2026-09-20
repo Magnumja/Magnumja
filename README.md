@@ -1,11 +1,11 @@
 <h1 align="center">Magnum Abreu</h1>
 
 <p align="center">
-  <b>Computer Science · Artificial Intelligence · Computer Vision · Full Stack Development</b>
+  <b>Computer Science · AI & Computer Vision · Full Stack Engineering</b>
 </p>
 
 <p align="center">
-  Building intelligent systems, computer vision solutions and modern web applications.
+  Building computer vision systems, AI-powered products and production-ready software.
 </p>
 
 <p align="center">
@@ -16,63 +16,132 @@
   <a href="https://github.com/Magnumja">GitHub</a>
 </p>
 
-![Visitors](https://komarev.com/ghpvc/?username=Magnumja&label=VISITORS&style=for-the-badge&color=434343)
+---
+
+## About me
+
+Computer Science student focused on **Artificial Intelligence, Computer Vision and Software Engineering**.
+
+I work across the complete development cycle — from experimentation, training and evaluation of Machine Learning models to APIs, interfaces, databases and deployment.
+
+As an undergraduate researcher at **Inovisão**, I work with applied Computer Vision problems involving object detection, image processing, model evaluation and intelligent systems.
+
+My main goal is to bridge the gap between **research and real-world software**, turning models and technical ideas into reliable and usable products.
 
 ---
 
-### Sobre mim
+## Selected Work
 
-Estudante de **Ciência da Computação** com foco em **Inteligência Artificial, Visão Computacional e Engenharia de Software**.
+### 🚧 Road GO
 
-Atuo no desenvolvimento de aplicações full stack e sistemas baseados em IA, trabalhando desde a construção de APIs e interfaces até treinamento, avaliação e integração de modelos de Machine Learning.
+Computer Vision research project focused on **road-risk detection and monocular distance estimation using smartphones**.
 
-Tenho interesse especial em transformar pesquisa e modelos de IA em **soluções reais, escaláveis e utilizáveis**.
+The ecosystem combines on-device inference, camera calibration, geospatial information and a management platform for detected road occurrences.
 
-### Tech Stack
+`Computer Vision` `YOLO` `TFLite` `OpenCV` `React` `NestJS` `PostgreSQL` `Docker`
+
+---
+
+### ✅ Fassaja
+
+AI-assisted productivity platform for individual and collaborative task management.
+
+Built as a complete software product, combining task organization, projects, teams, productivity features and intelligent assistance.
+
+`React` `TypeScript` `NestJS` `PostgreSQL` `AI`
+
+[View project](https://www.fassaja.com)
+
+---
+
+### 🏷️ InoLabel
+
+Computer Vision annotation tool developed at the **Inovisão Computer Vision Lab**.
+
+Supports image and video annotation workflows including object detection, tracking, oriented bounding boxes, pose/keypoints and image classification, with COCO and YOLO dataset export.
+
+`Python` `PyTorch` `YOLO` `OpenCV` `Computer Vision`
+
+[View project](https://github.com/Inovisao/InoLabel)
+
+---
+
+### 📚 DevEducation
+
+Platform for discovering and organizing programming resources from multiple sources while keeping a unified internal data model.
+
+Built with modern full-stack architecture, authentication and database-level access control.
+
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL`
+
+[View project](https://deveduc.vercel.app)
+
+---
+
+### 🇧🇷 ViaCEP Batch Processor
+
+Production-oriented Python application for batch address processing through the ViaCEP API.
+
+Includes input validation, retries with backoff, isolated failure handling, CLI support, continuous integration and a comprehensive automated test suite.
+
+`Python` `Pytest` `REST API` `GitHub Actions`
+
+[View project](https://github.com/Magnumja/viacep)
+
+---
+
+## Tech Stack
 
 **Languages**
 
 `Python` `TypeScript` `JavaScript` `SQL`
 
-**Back-end & Front-end**
+**Artificial Intelligence & Computer Vision**
 
-`NestJS` `Node.js` `React` `PostgreSQL`
+`PyTorch` `OpenCV` `YOLO` `scikit-learn` `TFLite`
 
-**AI & Computer Vision**
+**Back-end**
 
-`PyTorch` `OpenCV` `YOLO` `scikit-learn`
+`NestJS` `Node.js` `REST APIs` `PostgreSQL` `Prisma`
 
-**Tools**
+**Front-end**
 
-`Docker` `Git` `REST APIs`
+`React` `Next.js` `Vite` `Tailwind CSS`
+
+**Infrastructure & Tools**
+
+`Docker` `Git` `GitHub Actions`
 
 ---
 
-### Experiência
+## Experience
 
-**Lumma IA**
+### Lumma IA
+
 `Back-End / Front-End Developer · Prompt Engineer`
 
-Desenvolvimento de sistemas inteligentes e aplicações AI-driven, atuando em arquitetura de APIs, interfaces, integrações e engenharia de prompts.
+Development of AI-driven applications, APIs, interfaces, integrations and intelligent workflows.
 
-**Inovisão**
-`Pesquisador de Iniciação Científica`
+### Inovisão
 
-Pesquisa aplicada em **Visão Computacional e Machine Learning**, envolvendo object detection, segmentation, classification, processamento de imagens e avaliação experimental de modelos.
+`Undergraduate Researcher · Computer Vision`
 
-**Prefeitura de Campo Grande/MS**
+Applied research in Computer Vision and Machine Learning, including object detection, image processing, model evaluation and experimental development.
+
+### Prefeitura de Campo Grande/MS
+
 `Data Science Intern`
 
-Análise e tratamento de dados, desenvolvimento de indicadores e construção de dashboards para apoio à tomada de decisão.
+Data processing and analysis, development of indicators, dashboards and software solutions supporting public-sector decision-making.
 
 ---
 
-### Áreas de interesse
+## Currently interested in
 
-`Artificial Intelligence` · `Computer Vision` · `Machine Learning` · `Deep Learning` · `Full Stack Development` · `Software Engineering`
+`Artificial Intelligence` · `Computer Vision` · `Deep Learning` · `AI Engineering` · `Full Stack Engineering`
 
 ---
 
 <p align="center">
-  <i>From research to production.</i>
+  <b>From research to production.</b>
 </p>
