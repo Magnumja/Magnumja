@@ -78,18 +78,6 @@ Built with modern full-stack architecture, authentication and database-level acc
 
 ---
 
-### 🇧🇷 ViaCEP Batch Processor
-
-Production-oriented Python application for batch address processing through the ViaCEP API.
-
-Includes input validation, retries with backoff, isolated failure handling, CLI support, continuous integration and a comprehensive automated test suite.
-
-`Python` `Pytest` `REST API` `GitHub Actions`
-
-[View project](https://github.com/Magnumja/viacep)
-
----
-
 ## Tech Stack
 
 **Languages**
