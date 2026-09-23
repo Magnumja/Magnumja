@@ -54,18 +54,6 @@ Built as a complete software product, combining task organization, projects, tea
 
 ---
 
-### 🏷️ InoLabel
-
-Computer Vision annotation tool developed at the **Inovisão Computer Vision Lab**.
-
-Supports image and video annotation workflows including object detection, tracking, oriented bounding boxes, pose/keypoints and image classification, with COCO and YOLO dataset export.
-
-`Python` `PyTorch` `YOLO` `OpenCV` `Computer Vision`
-
-[View project](https://github.com/Inovisao/InoLabel)
-
----
-
 ### 📚 DevEducation
 
 Platform for discovering and organizing programming resources from multiple sources while keeping a unified internal data model.
