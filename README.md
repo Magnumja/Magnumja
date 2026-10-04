@@ -30,42 +30,6 @@ My main goal is to bridge the gap between **research and real-world software**, 
 
 ---
 
-## Selected Work
-
-### 🚧 Road GO
-
-Computer Vision research project focused on **road-risk detection and monocular distance estimation using smartphones**.
-
-The ecosystem combines on-device inference, camera calibration, geospatial information and a management platform for detected road occurrences.
-
-`Computer Vision` `YOLO` `TFLite` `OpenCV` `React` `NestJS` `PostgreSQL` `Docker`
-
----
-
-### ✅ Fassaja
-
-AI-assisted productivity platform for individual and collaborative task management.
-
-Built as a complete software product, combining task organization, projects, teams, productivity features and intelligent assistance.
-
-`React` `TypeScript` `NestJS` `PostgreSQL` `AI`
-
-[View project](https://www.fassaja.com)
-
----
-
-### 📚 DevEducation
-
-Platform for discovering and organizing programming resources from multiple sources while keeping a unified internal data model.
-
-Built with modern full-stack architecture, authentication and database-level access control.
-
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL`
-
-[View project](https://deveduc.vercel.app)
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -110,13 +74,6 @@ Applied research in Computer Vision and Machine Learning, including object detec
 
 Data processing and analysis, development of indicators, dashboards and software solutions supporting public-sector decision-making.
 
----
-
-## Currently interested in
-
-`Artificial Intelligence` · `Computer Vision` · `Deep Learning` · `AI Engineering` · `Full Stack Engineering`
-
----
 
 <p align="center">
   <b>From research to production.</b>
