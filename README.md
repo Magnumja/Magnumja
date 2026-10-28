@@ -52,29 +52,3 @@ My main goal is to bridge the gap between **research and real-world software**, 
 
 `Docker` `Git` `GitHub Actions`
 
----
-
-## Experience
-
-### Lumma IA
-
-`Back-End / Front-End Developer · Prompt Engineer`
-
-Development of AI-driven applications, APIs, interfaces, integrations and intelligent workflows.
-
-### Inovisão
-
-`Undergraduate Researcher · Computer Vision`
-
-Applied research in Computer Vision and Machine Learning, including object detection, image processing, model evaluation and experimental development.
-
-### Prefeitura de Campo Grande/MS
-
-`Data Science Intern`
-
-Data processing and analysis, development of indicators, dashboards and software solutions supporting public-sector decision-making.
-
-
-<p align="center">
-  <b>From research to production.</b>
-</p>
