@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building computer vision systems, AI-powered products and production-ready software.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3500&amp;pause=1800&amp;color=4493F8&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=35&amp;lines=From+research+to+real-world+software." alt="From research to real-world software." />
 </p>
 
 <p align="center">
@@ -20,35 +20,47 @@
 
 ## About me
 
-Computer Science student focused on **Artificial Intelligence, Computer Vision and Software Engineering**.
+Computer Science student and undergraduate researcher at **Inovisão**, focused on **AI, Computer Vision and Software Engineering**.
 
-I work across the complete development cycle — from experimentation, training and evaluation of Machine Learning models to APIs, interfaces, databases and deployment.
-
-As an undergraduate researcher at **Inovisão**, I work with applied Computer Vision problems involving object detection, image processing, model evaluation and intelligent systems.
-
-My main goal is to bridge the gap between **research and real-world software**, turning models and technical ideas into reliable and usable products.
+I build end-to-end solutions, from model training and evaluation to full stack applications and deployment.
 
 ---
 
 ## Tech Stack
 
 **Languages**
+<p>
+  <img src="https://cdn.simpleicons.org/python/555555/A3A3A3" height="28" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/555555/A3A3A3" height="28" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/555555/A3A3A3" height="28" alt="JavaScript" title="JavaScript" />
+</p>
 
-`Python` `TypeScript` `JavaScript` `SQL`
-
-**Artificial Intelligence & Computer Vision**
-
-`PyTorch` `OpenCV` `YOLO` `scikit-learn` `TFLite`
+**AI & Computer Vision**
+<p>
+  <img src="https://cdn.simpleicons.org/pytorch/555555/A3A3A3" height="28" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opencv/555555/A3A3A3" height="28" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/555555/A3A3A3" height="28" alt="scikit-learn" title="scikit-learn" />
+</p>
 
 **Back-end**
-
-`NestJS` `Node.js` `REST APIs` `PostgreSQL` `Prisma`
+<p>
+  <img src="https://cdn.simpleicons.org/nestjs/555555/A3A3A3" height="28" alt="NestJS" title="NestJS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/555555/A3A3A3" height="28" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/555555/A3A3A3" height="28" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/555555/A3A3A3" height="28" alt="Prisma" title="Prisma" />
+</p>
 
 **Front-end**
-
-`React` `Next.js` `Vite` `Tailwind CSS`
+<p>
+  <img src="https://cdn.simpleicons.org/react/555555/A3A3A3" height="28" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/555555/A3A3A3" height="28" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/555555/A3A3A3" height="28" alt="Vite" title="Vite" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/555555/A3A3A3" height="28" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
 **Infrastructure & Tools**
-
-`Docker` `Git` `GitHub Actions`
-
+<p>
+  <img src="https://cdn.simpleicons.org/docker/555555/A3A3A3" height="28" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/555555/A3A3A3" height="28" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/555555/A3A3A3" height="28" alt="GitHub Actions" title="GitHub Actions" />
+</p>
